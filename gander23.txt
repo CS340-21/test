@@ -1,0 +1,5 @@
+A fork replicates the files in the main repo from github and places them within the repo of your choice.
+
+Cloning on the other hand, replicates the files from the main repo and places them on your local computer.
+
+Branches serve as a snapshot of your changes, allowing you to revert to a previous set of changes or to make changes without affecting the master code. 
