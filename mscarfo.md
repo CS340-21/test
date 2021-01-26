@@ -1,0 +1,1 @@
+A github fork copies a repository that you can edit without making changes to the original repository. A clone also copies the repository, but only local collaborators can edit this repo to make actual changes. A branch keeps tabs on all changes made to the main branch, and can only be edited by merging these changes to the master branch.
