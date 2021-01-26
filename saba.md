@@ -6,3 +6,4 @@ Otherwise you must use a forked repository. Git branch allows you to work on cod
 main and merge afterwards. The repository is not copied. This means there will always be a 
 working version on main, and you can work on multiple features simultaneously by yourself or others.
 
+ 
