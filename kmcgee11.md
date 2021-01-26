@@ -1,0 +1,3 @@
+ GitHub fork creates a copy of the original repository to your GitHub which allows you to edit the code and merge it with the original repository via creating a pull request. 
+ GitHub clone creates a copy of the original repository on your local machine which still allows you to edit the code but you just have to have write permissions in order to push to the original repository. 
+ A branch is made within a repository which allows for the development of code to be done, you can make a change to something in the original repository for testing which won't actually affect the main branch/repository when you've completed your work in the branch you can merge it back into main and update your repository. 
