@@ -1,0 +1,2 @@
+Forking a repository is essentially creating a copy of the repo and being able to work on and experiment with the forked repo without making any changes to the original. Cloning a repo on the other hand is creating a local copy on your computer so that you can sync between both the local and remote locations of the project. A branch is something that is within a given repo, which allows you to work on a part of a project separately. For example, fixing bugs, once issues have been resolved, you can merge the branch that was worked on back to the master.
+
