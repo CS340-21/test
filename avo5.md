@@ -1,0 +1,1 @@
+A github fork copies the original repository to your own personal account. A git clone copies a repository onto your local machine. A git branch is a set of commits and a copy of the repository that allows you to develop code without affecting the main branch.
